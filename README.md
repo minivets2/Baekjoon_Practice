@@ -20,6 +20,13 @@
 6. [x만큼간격이있는n개의숫자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_6_x%EB%A7%8C%ED%81%BC%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90.cpp)
 7. [자릿수더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_7_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 
+
+### level 2
+1. [최댓값과최솟값](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_1_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)   [풀이](https://minivetstudy.tistory.com/56)
+
+
+
+
 백준
 -------------
 ### Bronze
