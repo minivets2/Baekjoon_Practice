@@ -19,10 +19,13 @@
 5. [나머지가1이되는수찾기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_5_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)
 6. [x만큼간격이있는n개의숫자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_6_x%EB%A7%8C%ED%81%BC%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90.cpp)
 7. [자릿수더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_7_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
+8. [자연수뒤집어배열로만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_8_%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+9. [문자열내p와y의개수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_9_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.cpp)
 
 
 ### level 2
 1. [최댓값과최솟값](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_1_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[풀이](https://minivetstudy.tistory.com/56)
+2. [JadenCase문자열만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_2_JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 
 
 
