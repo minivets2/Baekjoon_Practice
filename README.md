@@ -32,8 +32,7 @@
 1. [최댓값과 최솟값](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_1_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[풀이](https://minivetstudy.tistory.com/56)
 2. [JadenCase문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_2_JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 
-
-
+<br/>
 
 백준
 -------------
