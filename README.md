@@ -43,5 +43,5 @@
 * ### Silver
 1. [11651_좌표정렬하기](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/11651_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.cpp)
 2. [1316_그룹단어체커](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/1316_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4.cpp)
-3. [1966 프린터 큐](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.cpp)
+3. [1966 프린터 큐](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[풀이](https://minivetstudy.tistory.com/57)
 
