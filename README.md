@@ -1,5 +1,5 @@
 # Coding_Test
-백준, 프로그래머스 코딩테스트 문제 풀이 저장소 입니다.
+> 프로그래머스, 백준 코딩테스트 문제 풀이 저장소 입니다.
 <br/>
 <br/>
 
@@ -9,6 +9,12 @@
 1. [문자열 출력하기](https://github.com/minivets2/Coding_Test/blob/f4a7f492273ee6582dffaed95494248a895ec962/Programmers/0_1_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 2. [a와 b출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_2_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 3. [문자열반복해서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+4. [대소문자 바꿔서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_4_%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+5. [특수문자 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_5_%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+6. [덧셈식 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_6_%EB%8D%A7%EC%85%88%EC%8B%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+7. [문자열 붙여서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_7_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+8. [문자열 돌리기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_8_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.cpp)
+9. [홀짝 구분하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_9_%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.cpp)
 
 
 ### level 1
@@ -39,4 +45,5 @@
 ### Silver
 1. [11651_좌표정렬하기](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/11651_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.cpp)
 2. [1316_그룹단어체커](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/1316_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4.cpp)
+3. [1966 프린터 큐](https://github.com/minivets2/Coding_Test/blob/main/Baekjoon/1966_%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.cpp)
 
