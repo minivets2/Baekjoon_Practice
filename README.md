@@ -37,6 +37,17 @@
 7. [자릿수 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_7_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 8. [자연수 뒤집어 배열로 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_8_%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 9. [문자열내 p와 y의 개수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_9_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.cpp)
+10. [정수제곱근판별](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_10_%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84.cpp)
+11. [정수내림차순으로배치하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_11_%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.cpp)
+12. [하샤드수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_12_%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.cpp)
+13. [두 정수 사이의 합](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_13_%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.cpp)
+14. [음양 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_14_%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
+15. [콜라츠 추측](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_15_%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.cpp)
+16. [서울에서 김서방 찾기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_16_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.cpp)
+17. [나누어 떨어지는 숫자 배열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_17_%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.cpp)
+18. [없는 숫자 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_18_%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
+19. [핸드폰 번호 가리기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_19_%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp)
+20. [제일 작은 수 제거하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_20_%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.cpp)
 
 
 * ### level 2
