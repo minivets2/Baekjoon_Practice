@@ -7,13 +7,24 @@
 * ### level 0
 1. [문자열 출력하기](https://github.com/minivets2/Coding_Test/blob/f4a7f492273ee6582dffaed95494248a895ec962/Programmers/0_1_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 2. [a와 b출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_2_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
-3. [문자열반복해서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+3. [문자열 반복해서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 4. [대소문자 바꿔서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_4_%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 5. [특수문자 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_5_%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 6. [덧셈식 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_6_%EB%8D%A7%EC%85%88%EC%8B%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 7. [문자열 붙여서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_7_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 8. [문자열 돌리기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_8_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.cpp)
 9. [홀짝 구분하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_9_%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.cpp)
+10. [문자열 겹쳐쓰기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_10_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0.cpp)
+11. [문자열 섞기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_11_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9E%EA%B8%B0.cpp)
+12. [문자 리스트를 문자열로 변환하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_12_%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.cpp)
+13. [문자열 곱하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_13_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%B1%ED%95%98%EA%B8%B0.cpp)
+14. [더 크게 합치기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_14_%EB%8D%94%20%ED%81%AC%EA%B2%8C%20%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)
+15. [두 수의 연산값 비교하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_15_%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%97%B0%EC%82%B0%EA%B0%92%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.cpp)
+16. [n의 배수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_16_n%EC%9D%98%20%EB%B0%B0%EC%88%98.cpp)
+17. [공배수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_17_%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
+18. [홀짝에 따라 다른 값 변환하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_18_%ED%99%80%EC%A7%9D%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.cpp)
+19. [조건 문자열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_19_%EC%A1%B0%EA%B1%B4%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
+20. [flag에 따라 다른 값 변환하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_20_flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.cpp)
 
 
 * ### level 1
