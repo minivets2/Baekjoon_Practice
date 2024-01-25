@@ -73,6 +73,9 @@
 * ### level 2
 1. [최댓값과 최솟값](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_1_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[풀이](https://minivetstudy.tistory.com/56)
 2. [JadenCase문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_2_JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+3. [올바른 괄호](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_3_%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.cpp)
+4. [이진 변환 반복하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_4_%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.cpp)
+5. [숫자의 표현](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_5_%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.cpp)
 
 <br/>
 
