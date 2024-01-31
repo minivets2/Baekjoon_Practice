@@ -64,7 +64,6 @@
 
 
 <br/>
-<br/>
 
 
 * ### level 1
@@ -121,7 +120,6 @@
 </div>
 </details>
 
-<br/>
 <br/>
 
 * ### level 2
