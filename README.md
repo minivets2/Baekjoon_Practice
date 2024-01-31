@@ -69,7 +69,7 @@
 * ### level 1
 
 <details>
-<summary>21 ~ 40</summary>
+<summary>1 ~ 20</summary>
 <div markdown="1">
 
 1. [짝수와 홀수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_1_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.cpp)
