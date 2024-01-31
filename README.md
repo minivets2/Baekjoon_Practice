@@ -3,10 +3,10 @@
 <br/>
 
 <details>
-<summary>토글 접기/펼치기</summary>
+<summary>토글 제목</summary>
 <div markdown="1">
 
-안녕
+내용
 
 </div>
 </details>
