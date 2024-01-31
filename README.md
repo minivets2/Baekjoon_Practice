@@ -4,7 +4,7 @@
 
 프로그래머스
 -------------
-### level 0
+* ### level 0
 
 <details>
 <summary>1 ~ 20</summary>
@@ -66,7 +66,7 @@
 
 
 
-### level 1
+* ### level 1
 
 <details>
 <summary>21 ~ 40</summary>
