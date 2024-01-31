@@ -10,6 +10,7 @@
 <summary>1 ~ 20</summary>
 <div markdown="1">
 
+<br/>
 1. [문자열 출력하기](https://github.com/minivets2/Coding_Test/blob/f4a7f492273ee6582dffaed95494248a895ec962/Programmers/0_1_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 2. [a와 b출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_2_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 3. [문자열 반복해서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
@@ -38,6 +39,7 @@
 <summary>21 ~ 40</summary>
 <div markdown="1">
 
+<br/>
 21. [코드 처리하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_21_%EC%BD%94%EB%93%9C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.cpp)
 22. [등차수열의 특정한 향만 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_22_%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%9D%98%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%ED%96%A5%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 23. [주사위 게임 2](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_23_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202.cpp)
@@ -67,6 +69,12 @@
 
 
 * ### level 1
+
+<details>
+<summary>21 ~ 40</summary>
+<div markdown="1">
+
+<br/>
 1. [짝수와 홀수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_1_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.cpp)
 2. [약수의 합](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_2_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.cpp)
 3. [평균 구하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/1_3_%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)
@@ -87,6 +95,15 @@
 18. [없는 숫자 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_18_%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 19. [핸드폰 번호 가리기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_19_%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp)
 20. [제일 작은 수 제거하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_20_%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.cpp)
+
+</div>
+</details>
+
+<details>
+<summary>21 ~ 40</summary>
+<div markdown="1">
+
+<br/>
 21. [내적](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_21_%EB%82%B4%EC%A0%81.cpp)
 22. [가운데 글자 가져오기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_22_%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.cpp)
 23. [수박수박수박수박수박수?](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_23_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.cpp)
@@ -102,6 +119,10 @@
 33. [크기가 작은 부분 문자열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_33_%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
 34. [삼총사](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_34_%EC%82%BC%EC%B4%9D%EC%82%AC.cpp)
 35. [이상한 문자 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_35_%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+
+
+</div>
+</details>
 
 
 * ### level 2
