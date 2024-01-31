@@ -2,18 +2,14 @@
 > 프로그래머스, 백준 코딩테스트 문제 풀이 저장소 입니다.
 <br/>
 
-<details>
-<summary>토글 제목</summary>
-<div markdown="1">
-
-내용
-
-</div>
-</details>
-
 프로그래머스
 -------------
 * ### level 0
+
+<details>
+<summary>1 ~ 20</summary>
+<div markdown="1">
+
 1. [문자열 출력하기](https://github.com/minivets2/Coding_Test/blob/f4a7f492273ee6582dffaed95494248a895ec962/Programmers/0_1_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 2. [a와 b출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_2_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
 3. [문자열 반복해서 출력하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/0_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
@@ -34,6 +30,14 @@
 18. [홀짝에 따라 다른 값 변환하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_18_%ED%99%80%EC%A7%9D%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.cpp)
 19. [조건 문자열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_19_%EC%A1%B0%EA%B1%B4%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
 20. [flag에 따라 다른 값 변환하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_20_flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.cpp)
+
+</div>
+</details>
+
+<details>
+<summary>21 ~ 40</summary>
+<div markdown="1">
+
 21. [코드 처리하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_21_%EC%BD%94%EB%93%9C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.cpp)
 22. [등차수열의 특정한 향만 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_22_%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%9D%98%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%ED%96%A5%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 23. [주사위 게임 2](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_23_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202.cpp)
@@ -54,6 +58,11 @@
 38. [글자 이어 붙여 문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_38_%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 39. [9로 나눈 나머지](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_39_9%EB%A1%9C%20%EB%82%98%EB%88%88%20%EB%82%98%EB%A8%B8%EC%A7%80.cpp)
 40. [문자열 여러 번 뒤집기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_40_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%AC%EB%9F%AC%20%EB%B2%88%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
+
+</div>
+</details>
+
+
 
 
 
