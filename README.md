@@ -35,6 +35,17 @@
 28. [수 조작하기2](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_28_%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B02.cpp)
 29. [수열과 구간 쿼리3](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_29_%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC3.cpp)
 30. [수열과 구간 쿼리2](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_30_%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC2.cpp)
+31. [수열과 구간 쿼리4](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_31_%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC4.cpp)
+32. [배열 만들기2](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_32_%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B02.cpp)
+33. [카운트 업](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_33_%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85.cpp)
+34. [콜라츠 수열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_34_%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%88%98%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+35. [배열 만들기4](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_35_%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B04.cpp)
+36. [간단한 논리 연산](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_36_%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0.cpp)
+37. [주사위 게임 3](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_37_%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203.cpp)
+38. [글자 이어 붙여 문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_38_%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+39. [9로 나눈 나머지](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_39_9%EB%A1%9C%20%EB%82%98%EB%88%88%20%EB%82%98%EB%A8%B8%EC%A7%80.cpp)
+40. [문자열 여러 번 뒤집기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_40_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%AC%EB%9F%AC%20%EB%B2%88%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
+
 
 
 * ### level 1
@@ -68,6 +79,11 @@
 28. [행렬의 덧셈](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_28_%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.cpp)
 29. [직사각형 별찍기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_29_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.cpp)
 30. [최대공약수와 최소공배수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_30_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
+31. [같은 숫자는 싫어](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_31_%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.cpp)
+32. [3진법 뒤집기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_32_3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
+33. [크기가 작은 부분 문자열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_33_%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
+34. [삼총사](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_34_%EC%82%BC%EC%B4%9D%EC%82%AC.cpp)
+35. [이상한 문자 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_35_%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 
 
 * ### level 2
