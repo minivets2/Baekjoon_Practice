@@ -115,6 +115,11 @@
 33. [크기가 작은 부분 문자열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_33_%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp)
 34. [삼총사](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_34_%EC%82%BC%EC%B4%9D%EC%82%AC.cpp)
 35. [이상한 문자 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_35_%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+36. [최소직사각형](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_36_%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.cpp)
+37. [시저 암호](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_37_%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.cpp)
+38. [가장 가까운 같은 글자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_38_%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.cpp)
+39. [숫자 문자열과 영단어](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_39_%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.cpp)
+40. [푸드파이트 대회](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_40_%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.cpp)
 
 
 </div>
