@@ -62,6 +62,29 @@
 </div>
 </details>
 
+<details>
+<summary>41 ~ </summary>
+<div markdown="1">
+
+41. [배열 만들기 5](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_41_%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%205.cpp)
+42. [부분 문자열 이어 붙여 문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_42_%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+43. [문자열의 뒤의 n글자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_43_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EB%92%A4%EC%9D%98%20n%EA%B8%80%EC%9E%90.cpp)
+44. [접미사 배열](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_44_%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4.cpp)
+45. [접미사인지 확인하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_45_%EC%A0%91%EB%AF%B8%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.cpp)
+46. [문자열의 앞의 n글자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_46_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%95%9E%EC%9D%98%20n%EA%B8%80%EC%9E%90.cpp)
+47. [접두사인지 확인하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_47_%EC%A0%91%EB%91%90%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.cpp)
+48. [문자열 뒤집기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_48_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
+49. [세로 읽기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_49_%EC%84%B8%EB%A1%9C%20%EC%9D%BD%EA%B8%B0.cpp)
+50. [qr code](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_50_qr%20code.cpp)
+51. [문자 개수 세기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_51_%EB%AC%B8%EC%9E%90%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)
+52. [배열 만들기1](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_52_%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B01.cpp)
+53. [글자 지우기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_53_%EA%B8%80%EC%9E%90%20%EC%A7%80%EC%9A%B0%EA%B8%B0.cpp)
+54. [카운트 다운](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_54_%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EB%8B%A4%EC%9A%B4.cpp)
+55. [가까운 1 찾기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level0/0_55_%EA%B0%80%EA%B9%8C%EC%9A%B4%201%20%EC%B0%BE%EA%B8%B0.cpp)
+
+</div>
+</details>
+
 
 <br/>
 
@@ -125,14 +148,43 @@
 </div>
 </details>
 
+<details>
+<summary>41 ~ </summary>
+<div markdown="1">
+
+41. [K번째수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_41_K%EB%B2%88%EC%A7%B8%EC%88%98.cpp)
+42. [문자열 내 마음대로 정렬하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_42_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.cpp)
+43. [두 개 뽑아서 더하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_43_%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
+44. [1차 비밀지도](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_44_%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.cpp)
+45. [추억 점수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_45_%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.cpp)
+46. [명예의 전당(1)](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_46_%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1).cpp)
+47. [카드 뭉치](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_47_%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.cpp)
+48. [2016년](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_48_2016%EB%85%84.cpp)
+49. [폰켓몬](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_49_%ED%8F%B0%EC%BC%93%EB%AA%AC.cpp)
+50. [과일 장수](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level1/1_50_%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.cpp)
+
+</div>
+</details>
+
 <br/>
 
 * ### level 2
+
+<details>
+<summary>1 ~ </summary>
+<div markdown="1">
+
 1. [최댓값과 최솟값](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_1_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[풀이](https://minivetstudy.tistory.com/56)
 2. [JadenCase문자열 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/2_2_JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 3. [올바른 괄호](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_3_%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.cpp)
 4. [이진 변환 반복하기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_4_%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.cpp)
 5. [숫자의 표현](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_5_%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.cpp)
+6. [다음 큰 숫자](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_6_%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.cpp)
+7. [최솟값 만들기](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_7_%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+8. [카펫](https://github.com/minivets2/Coding_Test/blob/main/Programmers/level2/2_8_%EC%B9%B4%ED%8E%AB.cpp)
+
+</div>
+</details>
 
 <br/>
 
